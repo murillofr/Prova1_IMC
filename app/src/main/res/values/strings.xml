@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prova1 - IMC</string>
+    <string name="texto1">Peso:</string>
+    <string name="texto2">Altura:</string>
+    <string name="texto3">OK</string>
+</resources>

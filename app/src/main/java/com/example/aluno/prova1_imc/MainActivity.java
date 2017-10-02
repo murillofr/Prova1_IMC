@@ -22,8 +22,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends Activity {
 
-    double peso = 106;
-    double altura = 1.80;
+    double peso = 0.00;
+    double altura = 0.00;
     double imc = 0.00;
 
     @Override
